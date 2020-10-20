@@ -40,3 +40,12 @@
   ```shell	
   sudo nginx -t -p ./nginx/ -c nginx.conf
   ```
+
+# Tools
+- dash.sh: set video name and generate DASH mpd file.
+- http_server.py: python2 simple http server with CORS setting.
+
+
+# Reference Links
+- dup videos: https://www.cnblogs.com/x_wukong/p/12692122.html
+
