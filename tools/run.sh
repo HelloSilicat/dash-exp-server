@@ -16,8 +16,8 @@ if [ ! -d "/mnt/sdc/Video" ]; then
   fi
 fi
 
-cd /mnt/sdc/Video
-nohup python3.7 http_server.py  9991 >> test.log 2>&1 &
+#cd /mnt/sdc/Video
+#nohup python3.7 http_server.py  9991 >> test.log 2>&1 &
 
 # go to wireshark
 cd ~/Workspace/Wireshark
